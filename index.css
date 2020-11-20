@@ -1,0 +1,74 @@
+/* add css module styles here (optional) */
+
+._1L259 {
+  margin: 2em;
+  padding: 0.5em;
+  border: 2px solid rgb(26, 170, 134);
+  font-size: 2em;
+  text-align: center;
+  border-radius: 8px;
+}
+
+._1AP7e {
+  font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  border: 0;
+  border-radius: 3em;
+  cursor: pointer;
+  display: inline-block;
+  line-height: 1;
+}
+._1AP7e:focus{
+  outline:0;
+}
+._ZSDFX {
+  color: white;
+  background-color: #1ea7fd;
+}
+._3MxUX {
+  color: #333;
+  background-color: transparent;
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 0px 1px inset;
+}
+._25GtE {
+  font-size: 12px;
+  padding: 10px 16px;
+}
+._1Mjph {
+  font-size: 14px;
+  padding: 11px 20px;
+}
+._X5DTc {
+  font-size: 16px;
+  padding: 12px 24px;
+}
+
+._18bkO {
+  font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  border-radius: 8px;
+  padding: 10px;
+}
+
+/* size */
+._3JA8T {
+  width:100px;
+  height:100px;
+}
+._3OLks {
+  width:200px;
+  height:200px;
+}
+
+._1YQYT {
+  width:400px;
+  height:400px;
+}
+
+/* borders */
+._1K2ga {
+  border: solid 1px black;
+}
+
+._2gaPK{
+  background-color: rgb(225,225,225);
+}
